@@ -24,16 +24,16 @@ All documents for this pursuit are saved there:
 
 THE OFFER
 An IDIQ rate card covering three years plus three sample time-and-materials task orders, an approach developed with the ICE account team:
-- Task Order 1, discovery to evaluation (13 weeks): $248K
-- Task Order 2, optional pilot (12 weeks): $295K
-- Task Order 3, optional production (16 weeks): $391K
+- Task Order 1, discovery to evaluation (13 weeks): $286K
+- Task Order 2, optional pilot (12 weeks): $332K
+- Task Order 3, optional production (16 weeks): $460K
 
-Total $934K. Gross margin is 27.3% on Task Order 1 and 25.9% overall, against our 25% target. Task Order 1 is about 13% below what the rates on the account team's HSI SBIR contract with ICE would give. With OCFO's agreement, each stage's security and privacy approvals are drafted during the stage before, so the pilot and production don't wait on them; that adds 40 hours to Task Order 1.
+Total $1.08M. Gross margin is 36.9% on Task Order 1 and 35.7% overall, against our 25% target. Rates are the account team's HSI SBIR rate card, already on an ICE contract, with its Year 2 and 3 rates. With OCFO's agreement, each stage's security and privacy approvals are drafted during the stage before, so the pilot and production don't wait on them; that adds 40 hours to Task Order 1.
 
 DECISIONS NEEDED
-1. Rates. We used the HQFA BPA rates before the task-order discount. The discounted rates would cut Task Order 1 to $218K at 17% margin. I recommend keeping the undiscounted rates. Pricing hasn't confirmed the 3% annual step (the BPA's is 2.3%) or showing hourly rates in a document ICE may share. Do you want that confirmed before we send?
+1. Rates. The team thread first pointed to the HQFA card's discounted ("dark green") rates, but those give only about 17% margin on Task Order 1, below our 25% target. I priced instead at the account team's HSI SBIR rates: they are already on an ICE contract, so ICE has a basis for its cost estimate, and they reflect that this work is more technical than the HSI effort. For comparison, the undiscounted HQFA rates would give $934K at 25.9%. Pricing hasn't confirmed using HSI's rates and categories for this work, or showing hourly rates in a document ICE may share. Do you want that confirmed before we send?
 2. Contract route. Section 8's SBIR Phase III claims haven't been confirmed by Contracts. Do you want a Contracts review before we send?
-3. Engagement lead. Costed as an Associate Director under the Director category; no one identified yet. Recommend sending as is, since the document names no individuals.
+3. Engagement lead. Costed as an Associate Director under the Project Manager category; no one identified yet. Recommend sending as is, since the document names no individuals.
 4. Format. Task Order 1 is one table rather than FEMA-style tables per phase, to keep the document to 9 pages. Recommend as is; I can switch it.
 
 Open, not blocking: we haven't yet identified a solution architect or full-stack developer who has both the technical skills and ICE clearance. That is the main staffing risk, and any suggestions on where to look would help. If no one is found by mid-November, I recommend opening requisitions for both roles. Hiring plus an ICE background check for someone new to DHS can take three to four months, so a new hire would likely join in February or March, and the start date may need to allow for that.
