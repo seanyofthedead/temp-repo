@@ -1,0 +1,47 @@
+TO: Melanie
+SUBJECT: ICE AP Invoice Intake: go/no-go on discussion document and pricing
+
+NO ATTACHMENTS. Before sending, upload these three files to the Teams page (its Files tab) and paste the link into the body:
+1. ICE_AP_Intake_DRAFT_20261026.docx (discussion document, client deliverable)
+2. ICE_AP_Intake_Executive_Summary_20261026.pptx (executive summary, client deliverable)
+3. ICE_AP_Intake_Pricing_Tool_DRAFT_20261026.xlsm (Guidehouse pricing tool with macros, INTERNAL ONLY)
+Check that Melanie has access to the Teams page, and keep it limited to Guidehouse staff (the pricing tool shows cost, margin and colleagues' names).
+
+FILL IN BEFORE SENDING: the two items in [square brackets] in the body (the Teams link and the target send date).
+
+------------------------------------------------------------
+BODY
+------------------------------------------------------------
+
+Melanie,
+
+Felice and Gina asked me to send you the ICE OCFO AP invoice intake package for your review. I'd like your go/no-go to send the document and deck to David Dalenberg and Beth Baden at ICE by [target send date].
+
+ON THE TEAMS PAGE: [Teams link]
+All documents for this pursuit are saved there:
+- Discussion document (9 pages) and executive summary (5 slides), both for ICE
+- Pricing tool, internal only. It opens on Green Team Financials; proposed staffing is on the green Proposed Staffing tab. To use its buttons, choose Open in Desktop App from Teams and click Enable Content.
+
+THE OFFER
+An IDIQ rate card covering three years plus three sample time-and-materials task orders, an approach developed with the ICE account team:
+- Task Order 1, discovery to evaluation (13 weeks): $248K
+- Task Order 2, optional pilot (12 weeks): $295K
+- Task Order 3, optional production (16 weeks): $391K
+
+Total $934K. Gross margin is 27.3% on Task Order 1 and 25.9% overall, against our 25% target. Task Order 1 is about 13% below what the rates on the account team's HSI SBIR contract with ICE would give. With OCFO's agreement, each stage's security and privacy approvals are drafted during the stage before, so the pilot and production don't wait on them; that adds 40 hours to Task Order 1.
+
+DECISIONS NEEDED
+1. Rates. We used the HQFA BPA rates before the task-order discount. The discounted rates would cut Task Order 1 to $218K at 17% margin. I recommend keeping the undiscounted rates. Pricing hasn't confirmed the 3% annual step (the BPA's is 2.3%) or showing hourly rates in a document ICE may share. Do you want that confirmed before we send?
+2. Contract route. Section 8's SBIR Phase III claims haven't been confirmed by Contracts. Do you want a Contracts review before we send?
+3. Engagement lead. Costed as an Associate Director under the Director category; no one identified yet. Recommend sending as is, since the document names no individuals.
+4. Format. Task Order 1 is one table rather than FEMA-style tables per phase, to keep the document to 9 pages. Recommend as is; I can switch it.
+
+Open, not blocking: we haven't yet identified a solution architect or full-stack developer who has both the technical skills and ICE clearance. That is the main staffing risk, and any suggestions on where to look would help. If no one is found by mid-November, I recommend opening requisitions for both roles. Hiring plus an ICE background check for someone new to DHS can take three to four months, so a new hire would likely join in February or March, and the start date may need to allow for that.
+
+Please reply with send, send with changes, or hold.
+
+Thanks,
+Sean
+
+------------------------------------------------------------
+REMINDER (do not paste): the pricing tool names colleagues and shows cost and margin. Keep it on the internal Teams page only and never share it with the client files.
